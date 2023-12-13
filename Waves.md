@@ -131,7 +131,11 @@ $$\frac{n_2}{n_1} = \frac{sin \theta_1}{sin \theta_2} = \frac{v_1}{v_2} = \frac{
 ## Major assumptions
 Quite important to think about, so you don't **lose your mind** when you hear $sin(\theta) = \theta$ in approximation.
 
-Explanation for all major topics
+Small angle radian approximation:
+$$sin(\theta) = \theta $$
+$$tan(\theta) = \sin(\theta) $$
+
+
 ### Properties of Waves and Light
 
 **Travelling waves** and its properties first.
@@ -139,15 +143,23 @@ Explanation for all major topics
 
 
 **Standing waves** are not **that** different, except for one important thing. This is that the **nodes** on a standing wave are... well standing. They don't move, unlike in a travelling wave, where the wave amp doesn't fluctuate, it is the entire wave travelling.
-
+A **node** is a point on the wave where y is always 0, it is positioned at half a period.
 
 #### Section summary:
-Travelling waves have non-stationary nodes, and "shift". Standing waves oscilate around the nodes, thus at 1/4 of a period it will be a straight line.
+Travelling waves have non-stationary nodes, and "shift". Standing waves oscillate around the nodes, thus at 1/4 of a period it will be a straight line.
 
 **Uniform formula:**
 
 $$y = a sin (kx - \omega t)$$
+**Opposite direction "collision" formula**
+$$for:y_1=y_0 sin(kx-\omega t) \space \& \space y_2 = y_0 sin(kx+\omega t)$$
+$$y=y_1+y_2=2y_0 sin(kx)cos(\omega t)$$
 
+> :bulb: Since both are sin graphs, they start at the maximum, or y<sub>0</sub>, thus amplitude = y<sub>0</sub>
+> $\omega$ can also be interpreted as the angular speed, but $v=\omega * amp$
+> two travelling waves in opposite directions result in a standing wave
+>
+*Nicely about this combined equation is that the spacial stuff is isolated in the left part, allowing for quick findings of the nodes*
 ### Refraction and total internal reflection
 
 Starting with **Huygen's Principle**. This is essentially a theoretical concept to help visualize waves travelling around objects. You will often see reference to something called a "Huygen source". This is a source where spherical waves propagate from.
