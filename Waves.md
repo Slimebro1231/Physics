@@ -129,7 +129,7 @@ $$\frac{n_2}{n_1} = \frac{sin \theta_1}{sin \theta_2} = \frac{v_1}{v_2} = \frac{
 # Expansion into Major topics
 
 ## Major assumptions
-==Quite important== to think about, so you don't **lose your mind** when you hear $sin(\theta) = \theta$ in approximation.
+Quite important to think about, so you don't **lose your mind** when you hear $sin(\theta) = \theta$ in approximation.
 
 Explanation for all major topics
 ### Properties of Waves and Light
@@ -160,8 +160,8 @@ This is less important than the ray & wave model that we use for reflection and 
 ![reflection image](Images/reflection.png)
 
 > In terms of reflection and refraction, when light reflects off a **denser** surface, the phase **Flips**; when the light passes through the surface, the phase **stays the same**; when the light reflects off a less dense surface, the phase **stays the same**;
-> ==When n~2~ is denser than n~1~, phase of AD **flips**; When n~3~ is less dense than n~2~, phase of AD **remains the same**; vice versa.==
-> ==Rays that **pass through**, such as AD, **do not change phase**==
+> When n<sub>2</sub> is denser than n<sub>1</sub>, phase of AD **flips**; When n<sub>3</sub> is less dense than n<sub>2</sub>, phase of AD **remains the same**; vice versa.
+> Rays that **pass through**, such as AD, **do not change phase**
 
 
 
