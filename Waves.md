@@ -3,7 +3,7 @@ Notes for grade 12
 
 ---
 
-Here are some of the notes that I have for the waves unit in md.
+Here are some of the notes that I have for the waves unit in markdown.
 
 
 Completion List:
