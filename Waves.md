@@ -20,14 +20,9 @@ Completion List:
       - [Supplemental topics](#supplemental-topics)
 - [Expansion into Major topics](#expansion-into-major-topics)
     - [Properties of Waves and Light](#properties-of-waves-and-light)
+      - [Section summary:](#section-summary)
     - [Interference of waves](#interference-of-waves)
     - [Properties of Diffraction](#properties-of-diffraction)
-
-####Lectures to Cover & Deadlines:
-
-<iframe src="https://free.timeanddate.com/countdown/i95i7o8m/n250/cf12/cm0/cu4/ct0/cs0/ca0/cr0/ss0/cac000/cpc000/pcfff/tcfff/fs100/szw320/szh135/tatWaves%20Soft/tac000/tptWaves%20overdue%20By%3A/tpc000/matDeadline%20/mac000/mpc000/iso2023-12-19T00:00:00" allowtransparency="true" frameborder="0" width="184" height="69"></iframe>
-
-<iframe src="https://free.timeanddate.com/countdown/i95i7qox/n250/cf12/cm0/cu4/ct0/cs0/ca0/cr0/ss0/cac000/cpc000/pcfff/tcfff/fs100/szw320/szh135/tatFinal%20Waves%20Notes%20/tac000/tptWaves%20Notes%20/tpc000/matDeadline/mac000/mptOverdue%20by/mpc000/iso2023-12-24T00:00:00" allowtransparency="true" frameborder="0" width="164" height="69"></iframe>
 
 #### Lectures:
 - [ ] 802 Lecture 26: Travelling waves, Standing waves 
@@ -139,18 +134,25 @@ Explanation for all major topics
 
 This is better explained in an example. 
 
+#### Section summary:
+Travelling waves have non-stationary nodes, and "shift". Standing waves oscilate around the nodes, thus at 1/4 of a period it will be a straight line.
+**Uniform formula:**
+$$ y = a sin (kx - \omega t) $$
+
+
 ### Interference of waves
 To be fair this is really quite hard to understand, but I will try my best.
-Something basic to start with is constructive and destructive interference.$$
+Something basic to start with is constructive and destructive interference.
+> **Concept to remember:** 
+> If two waves hit the source at the same phase, they form a higher bump, if they are 180deg out of phase, they kill each other, forming darkness.
+> **Interference** is how you get light+light equals darkness
 
 
-
-In the double slit interference experiment, where young proved that light is a wave, we can get the **path length difference formula**. Further expansion on this...
+In the double slit interference experiment, we can get the **path length difference formula**. Something super important is the small angle approximation.
+Further expansion on this...
 
 
 ### Properties of Diffraction
 Also difficult to understand, but uses the same formula as double slit interference.
 
 
->blockquotes:
->>nested
