@@ -192,7 +192,8 @@ $$ \frac{n_1}{n_2} = \frac{sin\theta_2}{sin\theta_1} = \frac{v_2}{v_1}$$
 So these aren't really rays that "hit" the medium, but rather waves that do. I'll do a quick summary of the explanation here, but if you want to read it, it is available on Page 681.
 
 **Anyways, look at the graph below:**
-<img src="Images/huygen&snell.png" alt="moreSnell" style="width: 50%;">
+
+<img src="Images/huygen&snell.png" alt="moreSnell" style="width: 40%;">
 
 Understanding this diagram shouldn't be that bad, where the blue represents the waves, which gets "bent" when they pass the medium.
 
@@ -213,7 +214,7 @@ $$
 
 
 **Now moving on to some stuff where the angle doesn't really matter:**
-<img src= "Images/reflection.png" alt="reflection image" style="width:50%;">
+<img src= "Images/reflection.png" alt="reflection image" style="width:30%;">
 
 > In terms of reflection and refraction, when light reflects off a **denser** surface, the phase **Flips**; when the light passes through the surface, the phase **stays the same**; when the light reflects off a less dense surface, the phase **stays the same**;
 > When n<sub>2</sub> is denser than n<sub>1</sub>, phase of AD **flips**; When n<sub>3</sub> is less dense than n<sub>2</sub>, phase of AD **remains the same**; vice versa.
