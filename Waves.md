@@ -23,6 +23,9 @@ Completion List:
     - [Properties of Waves and Light](#properties-of-waves-and-light)
       - [Section summary:](#section-summary)
     - [Refraction and total internal reflection](#refraction-and-total-internal-reflection)
+      - [Snell's law](#snells-law)
+      - [Explanation of Snell's Law](#explanation-of-snells-law)
+      - [Section summary](#section-summary-1)
     - [Interference of waves](#interference-of-waves)
     - [Properties of Diffraction](#properties-of-diffraction)
 
@@ -107,7 +110,6 @@ $$\frac{n_2}{n_1} = \frac{sin \theta_1}{sin \theta_2} = \frac{v_1}{v_2} = \frac{
   * [ ] Standing waves & nodes
 * [ ] Refraction and total internal reflection
   * [ ] Huygen's principle and Snell's law
-  * [ ] Brewster's angle
 * [ ] Diffraction, Constructive and destructive interference
   * [ ] Young's double slit experiment
   * [ ] Half length difference
@@ -115,6 +117,7 @@ $$\frac{n_2}{n_1} = \frac{sin \theta_1}{sin \theta_2} = \frac{v_1}{v_2} = \frac{
 * [ ] Diffraction grating
 * [ ] Polarization and Malus's Law
   * [ ] Polarization
+  * [ ] Brewster's angle
 * [ ] Mechanical waves
 
 #### Supplemental topics
@@ -164,21 +167,62 @@ $$y=y_1+y_2=2y_0 sin(kx)cos(\omega t)$$
 
 Starting with **Huygen's Principle**. This is essentially a theoretical concept to help visualize waves travelling around objects. You will often see reference to something called a "Huygen source". This is a source where spherical waves propagate from.
 
-![S1 and S2 are both Huygen sources](Images/doubleSlit.png)
+<img src="Images/doubleSlit.png" alt="S1 and S2 are both Huygen sources" style="width: 35%;" />
 
 *S1 and S2 are both Huygen sources*
-This is less important than the ray & wave model that we use for reflection and refraction. 
+> This is less important than the ray & wave model that we use for reflection and refraction. 
 
-So we start with Snell's law, where the angle actually matters.
+#### Snell's law
+So we start with **Snell's law**, where the angle actually matters. 
+If you have a light going from one medium to another medium with a different density, the speed **changes**, and so does the angle.
+As an example, if you shine light into water, the light "slows down" and bends towards the normal. 
 
-Here the angle does not really matter:
-![Reflection image](Images/reflection.png)
+The **index of refraction** is provided as:
+$$n = \frac{c}{v} \space \therefore v= \frac{c}{n}$$
+>The index of refraction is how much slower the light is when compared to the speed of light in a vacum, c. 
+
+<img src="Images/snell'sLaw.png" alt="Snell's Law" style="width: 30%;">
+
+The equation here is summarized as:
+$$ n_1 sin(\theta_1) =n_2 sin(\theta_2) $$
+Therefore:
+$$ \frac{n_1}{n_2} = \frac{sin\theta_2}{sin\theta_1} = \frac{v_2}{v_1}$$
+
+#### Explanation of Snell's Law
+So these aren't really rays that "hit" the medium, but rather waves that do. I'll do a quick summary of the explanation here, but if you want to read it, it is available on Page 681.
+
+**Anyways, look at the graph below:**
+<img src="Images/huygen&snell.png" alt="moreSnell" style="width: 50%;">
+
+Understanding this diagram shouldn't be that bad, where the blue represents the waves, which gets "bent" when they pass the medium.
+
+With some geometry thinking, it shouldn't be too hard to realize that $\color{red}\angle BAD$ and $\color{blue}\angle ADC$ represent $\color{red}\theta_1$ and $\color{blue}\theta_2$ respectively.
+So we can see that AD is the **hypotnuse** for both "triangles", where the **opposite** for each is defined as $vt$; don't worry, t cancels out.
+
+So since $sin = Opposite/hypotnuse$:
+
+$$
+sin({\color{red}\theta_1})= \frac{v_1t}{AD};
+sin({\color{blue}\theta_2}= \frac{v_2t}{AD})
+$$
+Hence:
+$$
+\frac{sin({\color{red}\theta_1})}{sin({\color{blue}\theta_2}}=\frac{v_1t}{v_2t}= \frac{v_1}{v_2}
+$$
+
+
+
+**Now moving on to some stuff where the angle doesn't really matter:**
+<img src= "Images/reflection.png" alt="reflection image" style="width:50%;">
 
 > In terms of reflection and refraction, when light reflects off a **denser** surface, the phase **Flips**; when the light passes through the surface, the phase **stays the same**; when the light reflects off a less dense surface, the phase **stays the same**;
 > When n<sub>2</sub> is denser than n<sub>1</sub>, phase of AD **flips**; When n<sub>3</sub> is less dense than n<sub>2</sub>, phase of AD **remains the same**; vice versa.
 > Rays that **pass through**, such as AD, **do not change phase**
 
+#### Section summary
+Covers, snell's law, huygen's principle, and reflection and refraction. 
 
+**Critical formulas:**
 
 ### Interference of waves
 To be fair this is really quite hard to understand, but I will try my best.
@@ -196,3 +240,13 @@ Further expansion on this...
 Also difficult to understand, but uses the same formula as double slit interference.
 
 
+uh some testing with markdown
+```diff
+- text in red
++ text in green
+! text in orange
+# text in gray
+@@ text in purple (and bold)@@
+```
+
+```diff```
