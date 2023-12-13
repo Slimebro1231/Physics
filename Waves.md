@@ -169,7 +169,10 @@ Starting with **Huygen's Principle**. This is essentially a theoretical concept 
 *S1 and S2 are both Huygen sources*
 This is less important than the ray & wave model that we use for reflection and refraction. 
 
-![reflection image](Images/reflection.png)
+So we start with Snell's law, where the angle actually matters.
+
+Here the angle does not really matter:
+![Reflection image](Images/reflection.png)
 
 > In terms of reflection and refraction, when light reflects off a **denser** surface, the phase **Flips**; when the light passes through the surface, the phase **stays the same**; when the light reflects off a less dense surface, the phase **stays the same**;
 > When n<sub>2</sub> is denser than n<sub>1</sub>, phase of AD **flips**; When n<sub>3</sub> is less dense than n<sub>2</sub>, phase of AD **remains the same**; vice versa.
