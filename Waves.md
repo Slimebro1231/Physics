@@ -214,6 +214,7 @@ $$
 
 
 **Now moving on to some stuff where the angle doesn't really matter:**
+
 <img src= "Images/reflection.png" alt="reflection image" style="width:30%;">
 
 > In terms of reflection and refraction, when light reflects off a **denser** surface, the phase **Flips**; when the light passes through the surface, the phase **stays the same**; when the light reflects off a less dense surface, the phase **stays the same**;
