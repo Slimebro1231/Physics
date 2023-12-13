@@ -75,13 +75,18 @@ Book: Giancoli Physics Principles 7th edition
 
 **Basic wave equation:** 
 $a \, sin (\omega t - kx + \phi)$
+
 **Wave number, $k$:**
 $k = \frac{2\pi}{\lambda}$
+
 **Wavelength:**
 $v = f\lambda$
+
 **Angular frequency (_super important_):**
 $T = period$
+
 $\omega = \frac{2\pi}{T}=2\pi f$
+
 **Snell's Law**
 $n_1 =$ incident index (from the normal)
 $n_2 =$ refracted index (from the normal)
