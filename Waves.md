@@ -128,7 +128,7 @@ $$\frac{n_2}{n_1} = \frac{sin \theta_1}{sin \theta_2} = \frac{v_1}{v_2} = \frac{
 # Expansion into Major topics
 
 ## Major assumptions
-Quite important to think about, so you don't **lose your mind** when you hear $sin(\theta) = \theta$ in approximation.
+==Quite important== to think about, so you don't **lose your mind** when you hear $sin(\theta) = \theta$ in approximation.
 
 Explanation for all major topics
 ### Properties of Waves and Light
@@ -149,11 +149,12 @@ $$y = a sin (kx - \omega t)$$
 
 ### Refraction and total internal reflection
 
+Starting with **Huygen's Principle**. This is essentially a theoretical concept to help visualize waves travelling around objects. You will often see reference to something called a "Huygen source". This is a source where spherical waves propagate from.
 
+![S1 and S2 are both Huygen sources](Images/doubleSlit.png)
+*S1 and S2 are both Huygen sources*
 
-
-
-> In terms of reflection and refraction, when light reflects off a surface, the phase *Flips*; if the light passes through the surface, the phase stays the same
+> In terms of reflection and refraction, when light reflects off a **denser** surface, the phase **Flips**; when the light passes through the surface, the phase **stays the same**; when the light reflects off a less dense surface, the phase **stays the same**;
 
 
 ### Interference of waves
