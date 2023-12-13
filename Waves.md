@@ -202,14 +202,9 @@ So we can see that AD is the **hypotnuse** for both "triangles", where the **opp
 
 So since $sin = Opposite/hypotnuse$:
 
-$$
-sin({\color{red}\theta_1})= \frac{v_1t}{AD};
-sin({\color{blue}\theta_2}= \frac{v_2t}{AD})
-$$
+$$sin({\color{red}\theta_1})= \frac{v_1t}{AD};sin({\color{blue}\theta_2}= \frac{v_2t}{AD})$$
 Hence:
-$$
-\frac{sin({\color{red}\theta_1})}{sin({\color{blue}\theta_2}}=\frac{v_1t}{v_2t}= \frac{v_1}{v_2}
-$$
+$$\frac{sin({\color{red}\theta_1})}{sin({\color{blue}\theta_2}}=\frac{v_1t}{v_2t}= \frac{v_1}{v_2}$$
 
 
 
