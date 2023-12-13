@@ -97,6 +97,7 @@ $n_2 =$ refracted index (from the normal)
 $$\frac{n_2}{n_1} = \frac{sin \theta_1}{sin \theta_2} = \frac{v_1}{v_2} = \frac{\lambda_1}{\lambda_2}$$
 **Path differences**
 
+
 ## Topics for waves
 #### Major topics
 * [ ] Properties of Waves and light
@@ -137,7 +138,7 @@ This is better explained in an example.
 #### Section summary:
 Travelling waves have non-stationary nodes, and "shift". Standing waves oscilate around the nodes, thus at 1/4 of a period it will be a straight line.
 **Uniform formula:**
-$$ y = a sin (kx - \omega t) $$
+$$y = a sin (kx - \omega t)$$
 
 
 ### Interference of waves
