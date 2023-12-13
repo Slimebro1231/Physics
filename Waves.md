@@ -19,8 +19,10 @@ Completion List:
       - [Major topics](#major-topics)
       - [Supplemental topics](#supplemental-topics)
 - [Expansion into Major topics](#expansion-into-major-topics)
+  - [Major assumptions](#major-assumptions)
     - [Properties of Waves and Light](#properties-of-waves-and-light)
       - [Section summary:](#section-summary)
+    - [Refraction and total internal reflection](#refraction-and-total-internal-reflection)
     - [Interference of waves](#interference-of-waves)
     - [Properties of Diffraction](#properties-of-diffraction)
 
@@ -104,7 +106,7 @@ $$\frac{n_2}{n_1} = \frac{sin \theta_1}{sin \theta_2} = \frac{v_1}{v_2} = \frac{
   * [ ] Travelling waves & its properties
   * [ ] Standing waves & nodes
 * [ ] Refraction and total internal reflection
-  * [ ] Huygen's law and Snell's law
+  * [ ] Huygen's principle and Snell's law
 * [ ] Diffraction, Constructive and destructive interference
   * [ ] Young's double slit experiment
   * [ ] Half length difference
@@ -124,6 +126,10 @@ $$\frac{n_2}{n_1} = \frac{sin \theta_1}{sin \theta_2} = \frac{v_1}{v_2} = \frac{
 ---
 
 # Expansion into Major topics
+
+## Major assumptions
+Quite important to think about, so you don't **lose your mind** when you hear $sin(\theta) = \theta$ in approximation.
+
 Explanation for all major topics
 ### Properties of Waves and Light
 
@@ -133,12 +139,21 @@ Explanation for all major topics
 
 **Standing waves** are not **that** different, except for one important thing. This is that the **nodes** on a standing wave are... well standing. They don't move, unlike in a travelling wave, where the wave amp doesn't fluctuate, it is the entire wave travelling.
 
-This is better explained in an example. 
 
 #### Section summary:
 Travelling waves have non-stationary nodes, and "shift". Standing waves oscilate around the nodes, thus at 1/4 of a period it will be a straight line.
+
 **Uniform formula:**
+
 $$y = a sin (kx - \omega t)$$
+
+### Refraction and total internal reflection
+
+
+
+
+
+> In terms of reflection and refraction, when light reflects off a surface, the phase *Flips*; if the light passes through the surface, the phase stays the same
 
 
 ### Interference of waves
