@@ -1,4 +1,4 @@
-# Physics
+# Physics Waves
 Notes for grade 12
 
 ---
@@ -10,11 +10,18 @@ Completion List:
 --
 * [ ] Exam Prep
 
-- [Topics for waves](#topics-for-waves)
+- [Physics Waves](#physics-waves)
+  - [Completion List:](#completion-list)
+      - [Lectures:](#lectures)
+      - [Readings:](#readings)
+      - [Important Equations](#important-equations)
+  - [Topics for waves](#topics-for-waves)
       - [Major topics](#major-topics)
       - [Supplemental topics](#supplemental-topics)
 - [Expansion into Major topics](#expansion-into-major-topics)
     - [Properties of Waves and Light](#properties-of-waves-and-light)
+    - [Interference of waves](#interference-of-waves)
+    - [Properties of Diffraction](#properties-of-diffraction)
 
 ####Lectures to Cover & Deadlines:
 
@@ -95,7 +102,7 @@ $n_2 =$ refracted index (from the normal)
 $$\frac{n_2}{n_1} = \frac{sin \theta_1}{sin \theta_2} = \frac{v_1}{v_2} = \frac{\lambda_1}{\lambda_2}$$
 **Path differences**
 
-# Topics for waves
+## Topics for waves
 #### Major topics
 * [ ] Properties of Waves and light
   * [ ] Travelling waves & its properties
