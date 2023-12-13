@@ -107,13 +107,14 @@ $$\frac{n_2}{n_1} = \frac{sin \theta_1}{sin \theta_2} = \frac{v_1}{v_2} = \frac{
   * [ ] Standing waves & nodes
 * [ ] Refraction and total internal reflection
   * [ ] Huygen's principle and Snell's law
+  * [ ] Brewster's angle
 * [ ] Diffraction, Constructive and destructive interference
   * [ ] Young's double slit experiment
   * [ ] Half length difference
   * [ ] Single slit diffraction
 * [ ] Diffraction grating
 * [ ] Polarization and Malus's Law
-  * [ ] Brewster's angle
+  * [ ] Polarization
 * [ ] Mechanical waves
 
 #### Supplemental topics
@@ -152,9 +153,16 @@ $$y = a sin (kx - \omega t)$$
 Starting with **Huygen's Principle**. This is essentially a theoretical concept to help visualize waves travelling around objects. You will often see reference to something called a "Huygen source". This is a source where spherical waves propagate from.
 
 ![S1 and S2 are both Huygen sources](Images/doubleSlit.png)
+
 *S1 and S2 are both Huygen sources*
+This is less important than the ray & wave model that we use for reflection and refraction. 
+
+![reflection image](Images/reflection.png)
 
 > In terms of reflection and refraction, when light reflects off a **denser** surface, the phase **Flips**; when the light passes through the surface, the phase **stays the same**; when the light reflects off a less dense surface, the phase **stays the same**;
+> ==When n~2~ is denser than n~1~, phase of AD **flips**; When n~3~ is less dense than n~2~, phase of AD **remains the same**; vice versa.==
+> ==Rays that **pass through**, such as AD, **do not change phase**==
+
 
 
 ### Interference of waves
