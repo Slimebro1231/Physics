@@ -25,8 +25,9 @@ Completion List:
     - [Refraction and total internal reflection](#refraction-and-total-internal-reflection)
       - [Snell's law](#snells-law)
       - [Explanation of Snell's Law](#explanation-of-snells-law)
+      - [Total internal reflection](#total-internal-reflection)
       - [Section summary](#section-summary-1)
-    - [Rainbows!](#rainbows)
+    - [Rainbows \& Dispersion](#rainbows--dispersion)
     - [Interference of waves](#interference-of-waves)
     - [Properties of Diffraction](#properties-of-diffraction)
 
@@ -111,7 +112,8 @@ $$\frac{n_2}{n_1} = \frac{sin \theta_1}{sin \theta_2} = \frac{v_1}{v_2} = \frac{
   * [ ] Standing waves & nodes
 * [ ] Refraction and total internal reflection
   * [ ] Huygen's principle and Snell's law
-* [ ] Rainbows!!
+  * [ ] Total internal reflection
+* [ ] Rainbows & Dispersion
 * [ ] Diffraction, Constructive and destructive interference
   * [ ] Young's double slit experiment
   * [ ] Half length difference
@@ -225,16 +227,30 @@ $$\frac{n_2}{n_1} = \frac{v_1}{v_2} = \frac{\lambda_1}{\lambda_2} $$
 This may sound a little confusing, because it is, but just remember this: When a ray hits some medium, and it is denser, phase change happens to the reflected light. Thats it. 
 We will revisit what happens to the reflected light and why you may see rainbows in interference.
 
+#### Total internal reflection
+
+So we just saw that refraction is when the light passes through. Now reflection. But with a twist. So there are certain angles of incidence where the light completely reflects, and there is no refracted light. 
+
+This situation is called total internal reflection, and the reason that it is called internal reflection is that the light source is inside the medium. 
+An example shows light trying to escape the water.
+
+<img src= "Images/internalReflection.png" alt= "reflection2 image" style="width:40%;">
+
+So the angle where this K situation happens is called critical angle. Since we know $n_1 sin(\theta_1) = n_2 sin(\theta_2)$, we can find the critical angle by using $\theta_2 = 90\degree$. 
+Conclusively we get:
+$$\theta_1 = \arcsin(\frac{n_2}{n_1})$$
+
 #### Section summary
 Covers, snell's law, huygen's principle, and reflection and refraction. 
 
 **Critical formulas:**
 
-### Rainbows!
+### Rainbows & Dispersion
 
-fun. Not the hardest concept.
+Somewhat of an interesting topic.
 The most important part about rainbows is just that "white" light, is actually just a mixture of light with different wavelengths. 
 When this mixture of light light is **refracted**, they all have different angles of refraction, since $sin\theta$ is kind of proportional to the wavelength. 
+
 
 
 
