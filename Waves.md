@@ -162,7 +162,7 @@ $$ y = a sin (kx - \omega t) $$
 
 **Opposite direction "collision" formula**
 
-$$ for:y_1=y_0 sin(kx-\omega t) \space \& \space y_2 = y_0 sin(kx+\omega t) $$
+$$ for:y_1=y_0 sin(kx-\omega t) \space \And \space y_2 = y_0 sin(kx+\omega t) $$
 
 $$ y=y_1+y_2=2y_0 sin(kx)cos(\omega t) $$
 
