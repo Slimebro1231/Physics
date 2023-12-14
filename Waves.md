@@ -85,7 +85,7 @@ Book: Giancoli Physics Principles 7th edition
 #### Important Equations
 
 **Basic wave equation:** 
-$a \, sin (\omega t - kx + \phi)$
+$a \sin (\omega t - kx + \phi)$
 
 **Wave number, $k$:**
 $k = \frac{2\pi}{\lambda}$
@@ -146,7 +146,8 @@ $$tan(\theta) = \sin(\theta) $$
 ### Properties of Waves and Light
 
 **Travelling waves** and its properties first.
-&emsp; A travelling wave is obviously a wave travelling. Some things to remember about this is that if we want something to move in the $+x$ direction, we can simply replace the $x$ with a $ x-vt $. 
+
+A travelling wave is obviously a wave travelling. Some things to remember about this is that if we want something to move in the $+x$ direction, we can simply replace the $x$ with a $ x-vt $. 
 
 
 **Standing waves** are not **that** different, except for one important thing. This is that the **nodes** on a standing wave are... well standing. They don't move, unlike in a travelling wave, where the wave amp doesn't fluctuate, it is the entire wave travelling.
@@ -157,10 +158,13 @@ Travelling waves have non-stationary nodes, and "shift". Standing waves oscillat
 
 **Uniform formula:**
 
-$$y = a sin (kx - \omega t)$$
+$$ y = a sin (kx - \omega t) $$
+
 **Opposite direction "collision" formula**
-$$for:y_1=y_0 sin(kx-\omega t) \space \& \space y_2 = y_0 sin(kx+\omega t)$$
-$$y=y_1+y_2=2y_0 sin(kx)cos(\omega t)$$
+
+$$ for:y_1=y_0 sin(kx-\omega t) \space \& \space y_2 = y_0 sin(kx+\omega t) $$
+
+$$ y=y_1+y_2=2y_0 sin(kx)cos(\omega t) $$
 
 > :bulb: Since both are sin graphs, they start at the maximum, or y<sub>0</sub>, thus amplitude = y<sub>0</sub>
 > $\omega$ can also be interpreted as the angular speed, but $v=\omega * amp$
