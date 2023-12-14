@@ -26,6 +26,7 @@ Completion List:
       - [Snell's law](#snells-law)
       - [Explanation of Snell's Law](#explanation-of-snells-law)
       - [Section summary](#section-summary-1)
+    - [Rainbows!](#rainbows)
     - [Interference of waves](#interference-of-waves)
     - [Properties of Diffraction](#properties-of-diffraction)
 
@@ -110,6 +111,7 @@ $$\frac{n_2}{n_1} = \frac{sin \theta_1}{sin \theta_2} = \frac{v_1}{v_2} = \frac{
   * [ ] Standing waves & nodes
 * [ ] Refraction and total internal reflection
   * [ ] Huygen's principle and Snell's law
+* [ ] Rainbows!!
 * [ ] Diffraction, Constructive and destructive interference
   * [ ] Young's double slit experiment
   * [ ] Half length difference
@@ -206,9 +208,11 @@ $$sin({\color{red}\theta_1})= \frac{v_1t}{AD};sin({\color{blue}\theta_2}= \frac{
 
 Hence:
 
-$$\frac{sin({\color{red}\theta_1})}{sin({\color{blue}\theta_2}}=\frac{v_1t}{v_2t}= \frac{v_1}{v_2}$$
+$$\frac{sin({\color{red}\theta_1})}{sin({\color{blue}\theta_2})}=\frac{v_1t}{v_2t}= \frac{v_1}{v_2}$$
 
+Conclusively speaking:
 
+$$\frac{n_2}{n_1} = \frac{v_1}{v_2} = \frac{\lambda_1}{\lambda_2} $$
 
 **Now moving on to some stuff where the angle doesn't really matter:**
 
@@ -218,10 +222,21 @@ $$\frac{sin({\color{red}\theta_1})}{sin({\color{blue}\theta_2}}=\frac{v_1t}{v_2t
 > When n<sub>2</sub> is denser than n<sub>1</sub>, phase of AD **flips**; When n<sub>3</sub> is less dense than n<sub>2</sub>, phase of AD **remains the same**; vice versa.
 > Rays that **pass through**, such as AD, **do not change phase**
 
+This may sound a little confusing, because it is, but just remember this: When a ray hits some medium, and it is denser, phase change happens to the reflected light. Thats it. 
+We will revisit what happens to the reflected light and why you may see rainbows in interference.
+
 #### Section summary
 Covers, snell's law, huygen's principle, and reflection and refraction. 
 
 **Critical formulas:**
+
+### Rainbows!
+
+fun. Not the hardest concept.
+The most important part about rainbows is just that "white" light, is actually just a mixture of light with different wavelengths. 
+When this mixture of light light is **refracted**, they all have different angles of refraction, since $sin\theta$ is kind of proportional to the wavelength. 
+
+
 
 ### Interference of waves
 To be fair this is really quite hard to understand, but I will try my best.
