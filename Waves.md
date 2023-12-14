@@ -192,8 +192,11 @@ $$n = \frac{c}{v} \space \therefore v= \frac{c}{n}$$
 <img src="Images/snell'sLaw.png" alt="Snell's Law" style="width: 30%;">
 
 The equation here is summarized as:
+
 $$ n_1 sin(\theta_1) =n_2 sin(\theta_2) $$
+
 Therefore:
+
 $$ \frac{n_1}{n_2} = \frac{sin\theta_2}{sin\theta_1} = \frac{v_2}{v_1}$$
 
 #### Explanation of Snell's Law
