@@ -35,9 +35,19 @@ This means that 1 second on a car is 1 second anywhere and everywhere, and 1 met
 
 ## Special Relativity Postulates
 
+Some concepts/theories/assumptions of physics
+
 #### Principle of Relativity
 
+So this is what we covered in Newtonian relativity, where the laws of physics are still laws no matter what inertial frame of reference is picked. 
+
+> :bulb: Also you can never tell if you are at rest or moving at constant velocity
+> **As an example:** If you are on a train, and you look at another train moving backwards, it is hard to tell which train is moving.
+
 #### Speed of light principle
+
+This is a really interesting topic to cover. 
+
 
 ## Simultaneity
 
