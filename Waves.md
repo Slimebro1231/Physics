@@ -30,6 +30,8 @@ Completion List:
     - [Rainbows \& Dispersion](#rainbows--dispersion)
     - [Interference of waves](#interference-of-waves)
     - [Properties of Diffraction](#properties-of-diffraction)
+- [Some rough class notes:](#some-rough-class-notes)
+  - [Polarization](#polarization)
 
 #### Lectures:
 - [ ] 802 Lecture 26: Travelling waves, Standing waves 
@@ -275,6 +277,19 @@ Further expansion on this...
 
 ### Properties of Diffraction
 Also difficult to understand, but uses the same formula as double slit interference.
+
+
+# Some rough class notes:
+As below:
+## Polarization 
+
+EM radiation:
+
+**Faraday's Law:**
+important
+
+
+
 
 
 uh some testing with markdown
