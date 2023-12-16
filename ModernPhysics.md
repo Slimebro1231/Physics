@@ -4,7 +4,7 @@
 
 ---
 
-Super hard unit to think about, but there are no calculations that we need! Which is a good thing to be fair. There is going to be **8-10 questions multiple choice** on the test, which are all conceptual, that we are going to predict.
+Super hard unit to think about, but there are no calculations that we need! Which is a good thing to be fair. There is going to be **8-10 questions multiple choice** on the test, all of which are all conceptual, that we are going to predict.
 
 
 - [The special theory of relativity](#the-special-theory-of-relativity)
@@ -46,10 +46,16 @@ So this is what we covered in Newtonian relativity, where the laws of physics ar
 
 #### Speed of light principle
 
-This is a really interesting topic to cover. 
+This is a fascinating topic to cover. To sum it up in short, no matter at what reference frame you choose to pick, the speed of light relative to you is always the speed of light. Sounds confusing?
+
+So if I am on a train and I throw a ball in the direction the train is travelling, the speed of the ball relative to the ground is [trainSpeed] + [ballSpeed] and the speed of the ball relative to the train is just [ballSpeed]. **However**, replacing the ball with a flashlight gives interesting results. To you, on the train, the speed of light is c, but to someone looking at the light on the ground, the speed of light is *also* c. 
+
+How can this be? Well, this has to do with weird light-speed travel funkiness of space and time, and will be better understood as we cover time dilation, and the warp of time and space due to mass and speed.
 
 
 ## Simultaneity
+
+This essentially includes that "simultaneous" behavior is a bit of an arbitrary concept, as information takes time to travel. and what is time anyways? Since it isn't a constant.
 
 ## Time Dilation
 
