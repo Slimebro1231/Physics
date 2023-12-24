@@ -36,5 +36,33 @@ Nearly everything in physics is symmetrical, including time, collisions and a lo
 
 ### Critical Equations (and explanations)
 
+---
+
+## More detailed Exam Prep:
+So we start with dynamics, which make up most of the exam.
+The following topics will include: General Outline, Important Ideas, Explanation, Common questions, Common Misconceptions, and Important Equations.
+
+### Kinematics
+
+Starting with Kinematics, this is the basics of the dynamics unit, and being bad at kinematics will be absolutely devastating for the following units. The good news is that the concepts are quite simple, and if you have made this far, chances are you will find this simple.
+
+
+
+
+
+
+#### Some Important Ideas
+
+
+
+
+
+### Forces
+
+### Energy
+
+### Momentum
+
+
 
 ### Practice Questions
