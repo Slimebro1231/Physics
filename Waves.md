@@ -269,6 +269,7 @@ Something basic to start with is constructive and destructive interference.
 > **Concept to remember:** 
 > If two waves hit the source at the same phase, they form a higher bump, if they are 180deg out of phase, they kill each other, forming darkness.
 > **Interference** is how you get light+light equals darkness
+> This means that when two waves hit each other with 
 
 
 In the double slit interference experiment, we can get the **path length difference formula**. Something super important is the small angle approximation.
