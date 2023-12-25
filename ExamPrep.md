@@ -55,12 +55,12 @@ So the reason that Kinematics is so important is that it teaches you the idea of
 This extends to **relative motion**, **vector components**, and most importantly, **reading graphs**.
 This unit also introduces reading graphs, which will be present in almost all the following units.
 ```diff
-! A super important idea to remember here is the true meaning of:
-Velocity
-Speed
-Displacement
-Distance
-Acceleration
+! A super important idea to remember is the true meaning of:
+**Velocity** - How fast something is moving in a particular direction
+**Speed** - Absolutely how fast something is moving
+**Displacement** - How far something has gotten to
+**Distance** - How much ground something has covered
+**Acceleration** - Pretty self explanatory
 ```
 To do well, you should know how to use them. This means recognizing their properties well. For example, velocity can be represented as change in distance per unit time, and acceleration can be represented as change in (change in distance per unit time), so change in velocity per unit time.
 
