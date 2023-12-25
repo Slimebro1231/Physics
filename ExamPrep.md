@@ -1,5 +1,18 @@
 # Exams!
 
+- [Exams!](#exams)
+    - [Critical Equations (and explanations)](#critical-equations-and-explanations)
+  - [More detailed Exam Prep:](#more-detailed-exam-prep)
+    - [Kinematics](#kinematics)
+      - [Some Important Ideas](#some-important-ideas)
+      - [Common Questions](#common-questions)
+      - [Important Equations](#important-equations)
+    - [Forces](#forces)
+    - [Energy](#energy)
+    - [Momentum](#momentum)
+    - [Practice Questions](#practice-questions)
+
+
 So. All the units... Here is a general checklist:
 **Also some important things:**
 - The exam is going to be consisted primarily of dynamics
@@ -53,7 +66,7 @@ Starting with Kinematics, this is the basics of the dynamics unit, and being bad
 
 So the reason that Kinematics is so important is that it teaches you the idea of movement.
 This extends to **relative motion**, **vector components**, and most importantly, **reading graphs**.
-This unit also introduces reading graphs, which will be present in almost all the following units.
+This unit introduces reading graphs, which will be present in almost all the following units. However, in the following units you may be asked to create your own graphs.
 ```diff
 ! A super important idea to remember is the true meaning of:
 **Velocity** - How fast something is moving in a particular direction
@@ -64,11 +77,11 @@ This unit also introduces reading graphs, which will be present in almost all th
 ```
 To do well, you should know how to use them. This means recognizing their properties well. For example, velocity can be represented as change in distance per unit time, and acceleration can be represented as change in (change in distance per unit time), so change in velocity per unit time.
 
-Its quite simple after you have done a few questions. The idea here is just that variables are interchangeable to an extent. In a question where you need to use acceleration in a step, but you don't have it, seeking the change of velocity over time could prove useful.
+Its quite simple after you have done a few questions. The idea here is just that **variables are interchangeable** to an extent. In a question where you need to use acceleration in a step, but you don't have it, seeking the change of velocity over time could prove useful.
 
 #### Common Questions
 Primary questions from this unit is projectile motion and relative motion.
-To do both of these, something called vector components needs to get introduced. This is the idea that an arrow with a direction can be split into its components in the x direction and y direction.
+To do both of these, something called vector components needs to get introduced. This is the idea that an arrow with a direction can be split into its components in the $x$ direction and $y$ direction.
 
 A simple example is one of the primary questions, projectile motion. In projectile motion, the horizontal motion of the projectile can be considered separately from its vertical component.
 
@@ -94,6 +107,11 @@ Here they are:
 
 
 ### Forces
+
+Forces! Also, a super important fundamental part of physics. The Forces unit mainly covers the relation between force and acceleration, free body diagrams, and also things moving in circles.
+
+
+
 
 ### Energy
 
