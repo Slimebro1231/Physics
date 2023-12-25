@@ -49,9 +49,45 @@ Starting with Kinematics, this is the basics of the dynamics unit, and being bad
 
 
 
-
-
 #### Some Important Ideas
+
+So the reason that Kinematics is so important is that it teaches you the idea of movement.
+This extends to **relative motion**, **vector components**, and most importantly, **reading graphs**.
+This unit also introduces reading graphs, which will be present in almost all the following units.
+```diff
+! A super important idea to remember here is the true meaning of:
+Velocity
+Speed
+Displacement
+Distance
+Acceleration
+```
+To do well, you should know how to use them. This means recognizing their properties well. For example, velocity can be represented as change in distance per unit time, and acceleration can be represented as change in (change in distance per unit time), so change in velocity per unit time.
+
+Its quite simple after you have done a few questions. The idea here is just that variables are interchangeable to an extent. In a question where you need to use acceleration in a step, but you don't have it, seeking the change of velocity over time could prove useful.
+
+#### Common Questions
+Primary questions from this unit is projectile motion and relative motion.
+To do both of these, something called vector components needs to get introduced. This is the idea that an arrow with a direction can be split into its components in the x direction and y direction.
+
+A simple example is one of the primary questions, projectile motion. In projectile motion, the horizontal motion of the projectile can be considered separately from its vertical component.
+
+An explanation of how to do these are posted as well.
+
+#### Important Equations
+
+The most important equations in kinematics are known as the big 5. 
+Here they are:
+
+| Formula                              | Missing Variable |
+|--------------------------------------|------------------|
+| $\Delta{x} = x - x_0 = \bar{v}t$     | $a$              |
+| $v = v_0 + at$                        | $\Delta{x}$      |
+| $x = x_0 + v_0t + \frac{1}{2}at^2$   | $v$              |
+| $x = x_0 + vt - \frac{1}{2}at^2$     | $v_0$            |
+| $v^2 = v_0^2 + 2a(x - x_0)$          | $t$              |
+
+
 
 
 
